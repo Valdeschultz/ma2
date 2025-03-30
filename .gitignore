@@ -3,7 +3,7 @@
 .pre-commit-config.yaml
 material/data/*
 .ruff_cache/
-
+.env.example
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

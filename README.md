@@ -5,7 +5,7 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
+| Valdemar Kaae schultz | 153850 |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
 
